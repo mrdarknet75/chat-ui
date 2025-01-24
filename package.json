@@ -53,9 +53,9 @@
 		"openid-client": "^5.4.2",
 		"parquetjs": "^0.11.2",
 		"postcss": "^8.4.21",
-		"serpapi": "^1.1.1",
+		"serpapi": "^2.0.0",
 		"tailwind-scrollbar": "^3.0.0",
-		"tailwindcss": "^3.3.1",
+		"tailwindcss": "^4.0.0",
 		"zod": "^3.21.4"
 	}
 }
